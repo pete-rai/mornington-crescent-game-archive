@@ -199,6 +199,13 @@
         color:inherit;
     }
 
+    .footer
+    {
+        margin-top: 20px;
+        font-size: 0.9rem;
+        color: grey;
+    }
+
     .line-bakerloo
     {
         background: #b26300;
@@ -304,6 +311,7 @@
     <hr/>
     <p class="monospace">/* raw data feed */</p>
     <pre class="raw"><?= json_encode ($game, JSON_PRETTY_PRINT | JSON_UNESCAPED_LINE_TERMINATORS) ?></pre>
+    <p class="footer">Archived by <a href="http://www.rai.org.uk">Pete Rai</a></p>
   </div>
 </body>
 </html>
