@@ -272,7 +272,7 @@
   <div class="container">
     <h2>Mornington Crescent</h2>
     <h3>
-      <a href="#">Historical Game Archive</a>
+      <a href="https://github.com/pete-rai/mornington-crescent-game-archive/blob/master/README.md">Historical Game Archive</a>
     </h3>
     <div class="info">
       <h1>GAMEID # <?= $game->id ?></h1>

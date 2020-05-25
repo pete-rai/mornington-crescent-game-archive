@@ -28,7 +28,7 @@ I have _not_ included games played under 'Finchley Central' rules. This should n
 
 ## The Data
 
-All the data is in the one file [games.json]() and, as the name suggests, is held in JSON format. It is giant array consisting of over 18,000 items. Each item is a single game in the following format:
+All the data is in the one file [games.json](https://github.com/pete-rai/mornington-crescent-game-archive/blob/master/games.json) and, as the name suggests, is held in JSON format. It is giant array consisting of over 18,000 items. Each item is a single game in the following format:
 
 ```json
 {
