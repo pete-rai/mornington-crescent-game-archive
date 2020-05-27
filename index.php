@@ -1,6 +1,6 @@
 <?php
 
-  define ('GAMES'     , 18881);
+  define ('GAMES'     , 18477);
   define ('GAMES_FILE', 'games.json');
   define ('LINES_FILE', 'lines.csv');
 
